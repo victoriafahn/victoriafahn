@@ -12,47 +12,50 @@
 
 <br>
 
-:school: I am a `Student` of software development, dedicated to Full Stack development. With 3 years in programming, I thrive on continuous learning.
+## 🏫 About Me
 
-:trophy: Diligent Full Stack Developer with expertise in HTML/CSS/JavaScript. Explored React JS, Node.js, Express, backend architecture, and RESTful API creation.
+I am a software development student with a passion for Full Stack development and a special focus on Front-End technologies. With 3 years of programming experience, I am motivated by continuous learning and always strive to stay at the forefront of the evolving tech landscape.
 
-:technologist: Passionate about solving problems with software solutions. Active in competitive programming.
+## 🏆 Experience
 
-:student: Currently studying Computer Science and Software Engineering.
+As a Full Stack Developer, I have honed my skills in HTML, CSS, and JavaScript. My journey includes exploring React JS, Node.js, and Express, along with backend architecture and RESTful API creation. My work is driven by a commitment to creating interactive and user-friendly web experiences.
 
-:nerd_face: Eager learner, always seeking personal and professional growth.
+## 🧑‍💻 Passion
 
-:thinking: Open to new job opportunities.
+My passion for programming is matched only by my love for creating solutions that bring smiles to users' faces. With a heart full of creativity and a mind dedicated to detail, I enjoy turning ideas into beautiful and functional websites that are welcoming and intuitive. I am active in competitive programming and take pride in solving problems with elegant software solutions.
 
-:boom: [Website](No disponible).
+## 🧑‍🎓 Education
 
----
+- **Centro de e-Learning UTN FRBA**  
+  Software Development Technician  
+  March 2022 - August 2024
 
-### Education:
+- **Universidad Tecnológica Nacional (UTN)**  
+  Master of Technology - MTech, Computer Programming and Specific Applications
 
-- Full Stack Developer 🚀
-  
-- Software Development Technician
+## 🤓 Skills
 
-### Skills:
+- **Front-End Development**: HTML, CSS, JavaScript
+- **Frameworks**: React JS, Spring Framework
+- **Back-End Development**: Node.js, Express
+- **Databases**: MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
+- **Problem Solving**: Analytical and creative solutions
+- **Teamwork and Communication**: Collaborative and effective in team settings
+- **Flexibility**: Adaptable and open to new challenges
 
-- HTML/CSS/JAVASCRIPT
-- Spring Framework
-- Databases: MySQL, PostgreSQL
-- Version Control: Git, Github
-- Problem Solving
-- Teamwork
-- Communication
-- Flexibility
+## 💥 Portfolio
 
-### Experience:
+**[Website](Not Available)**
 
-As a full stack developer, collaborated with 20+ clients, focusing on aesthetic and functional website design.
+## 🤔 Seeking Opportunities
 
-### Reflection:
+I am currently open to new job opportunities and excited to contribute to innovative projects. Whether building engaging web experiences or solving complex problems, I am eager to bring my skills to new challenges.
 
-Beyond technical skills, excel in problem-solving, teamwork, and communication. Excited to contribute to innovative projects 🚀✨.
-<br>
+## 🚀 Reflection
+
+Beyond technical skills, I excel in problem-solving, teamwork, and communication. I am excited to contribute to projects that are not only functional but also inspiring. Let’s create something amazing together! 🚀✨
+
 
 
 
